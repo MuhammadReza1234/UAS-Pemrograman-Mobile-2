@@ -1,35 +1,31 @@
-# Absensi-Apps
-Membuat Aplikasi Absensi dengan Android Studio
+<h1><p align="center"> Project UAS Pemrograman Mobile 2</h1><br>
 
-# Tutorial Build with Android Studio
-https://youtu.be/naA_RTzY9qA
+## **Absensi Online**<br>
 
-# Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2022/06/tutorial-membuat-aplikasi-absensi-dengan-android-studio.html
+| No.| Nama Kelompok | NIM | Kelas |
+|----|------------|--------|-------|
+| 1. | Muhammad Reza Maulana |  312210303 | TI.22.A3 |
+| 2. | Chaerul Hidayat | 312210300| TI.22.A3 |
+| 3. | Rini Ariza  | 312210337 | TI.22.A3 |
+| 4. | Hilman Ihza Amrullah |  312210310 | TI.22.A3 |
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzGHFePffN9pWKDHqoMNKNOOCrWN3Gj7DNpCwEqYsnu_aNwI9HpZDeDKXw9cRW6bhn0kiW0q4cYoiUjk47urcS5JUSZ9fjU4ekLdGNI7Z91cNv6JV33499W_DD9pO_E9CrGlBDzhSsjYUh2nl2yMpj4bBtufabrSEoGLNWHVnh8r9LHrViHToYzbRIZg/s1280/Tutorial%20Membuat%20Aplikasi%20Absensi%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzGHFePffN9pWKDHqoMNKNOOCrWN3Gj7DNpCwEqYsnu_aNwI9HpZDeDKXw9cRW6bhn0kiW0q4cYoiUjk47urcS5JUSZ9fjU4ekLdGNI7Z91cNv6JV33499W_DD9pO_E9CrGlBDzhSsjYUh2nl2yMpj4bBtufabrSEoGLNWHVnh8r9LHrViHToYzbRIZg/s1280/Tutorial%20Membuat%20Aplikasi%20Absensi%20dengan%20Android%20Studio.png" style="max-width:100%;">
+# 📲 Absensi: Solusi Cerdas untuk Kehadiran Karyawan
 
-****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
+## 🕒 Masuk
+Mulai hari kerja Anda dengan mudah! Gunakan fitur **Masuk** pada aplikasi Absensi kami untuk mencatat kehadiran Anda dengan cepat dan akurat.
 
-## 👇 Click For Support Me :
-<a href="https://sociabuzz.com/azharrvldi_/donate"> 
-<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200"></a>
+## 🕓 Keluar
+Selesaikan hari kerja Anda tanpa ribet! Cukup gunakan fitur **Keluar** untuk mencatat jam pulang Anda dengan tepat.
 
-## 📄 License
+## 📝 Izin
+Perlu izin mendadak? Jangan khawatir! Fitur **Izin** kami memungkinkan Anda untuk mengajukan izin dengan mudah dan mendapatkan persetujuan secara instan.
 
-```
-Copyright (C) Azhar Rivaldi
+## 📊 Hasil Akhir
+Pantau kehadiran Anda dengan mudah! Fitur **Hasil Akhir** memberikan laporan lengkap tentang kehadiran, izin, dan catatan kerja Anda.
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+## 🔒 Logout
+Akhiri sesi Anda dengan aman! Gunakan fitur **Logout** untuk keluar dari aplikasi dengan aman dan menjaga privasi data Anda.
 
-    http://www.apache.org/licenses/LICENSE-2.0
+**Absensi**: Menghadirkan kepraktisan dalam manajemen kehadiran karyawan Anda.
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-```
+**Unduh sekarang** dan rasakan kemudahannya!
